@@ -1,0 +1,2 @@
+Accuracy: 0.9741
+F1 Score: 0.9751
