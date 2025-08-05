@@ -150,6 +150,14 @@ Generates:
 
 ![ROC Curve - DARTS](outputs/results/darts_roc_curve.png)
 
+**Confusion Matrix (Resnet)**
+
+![Confusion Matrix - Resnet](outputs/results/confusion_matrix.png)
+
+**ROC Curve (Resnet)**
+
+![ROC Curve - Resnet](outputs/results/roc_curve.png)
+
 ---
 
 ## 🧪 Key Findings
@@ -185,6 +193,7 @@ For questions, feel free to reach out:
 * **GitHub**: [villwin007](https://github.com/villwin007)
 
 ---
+
 
 
 
