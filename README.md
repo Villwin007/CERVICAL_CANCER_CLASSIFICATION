@@ -143,9 +143,11 @@ Generates:
 ## 📈 Visualizations
 
 **Confusion Matrix (DARTS)**
+
 ![Confusion Matrix - DARTS](outputs/results/darts_confusion_matrix.png)
 
 **ROC Curve (DARTS)**
+
 ![ROC Curve - DARTS](outputs/results/darts_roc_curve.png)
 
 ---
@@ -164,11 +166,11 @@ If you use this work, please cite:
 
 ```bibtex
 @misc{cervical-nas-resnet,
-  author = {Your Name},
+  author = {Dhanush Saravanan},
   title = {Cervical Cancer Classification using NAS (DARTS) vs ResNet},
   year = {2025},
   publisher = {GitHub},
-  url = {https://github.com/<your-username>/cervical-cancer-nas-resnet}
+  url = {https://github.com/<villwin007>/cervical-cancer-nas-resnet}
 }
 ```
 
@@ -183,5 +185,6 @@ For questions, feel free to reach out:
 * **GitHub**: [villwin007](https://github.com/villwin007)
 
 ---
+
 
 
