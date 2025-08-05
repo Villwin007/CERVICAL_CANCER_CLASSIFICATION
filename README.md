@@ -1,6 +1,3 @@
----
-
-```
 # 🧬 Cervical Cancer Classification using NAS (DARTS) vs ResNet
 
 ## 📌 Overview
@@ -186,3 +183,4 @@ For questions, feel free to reach out:
 * **GitHub**: [villwin007](https://github.com/villwin007)
 
 ```
+
