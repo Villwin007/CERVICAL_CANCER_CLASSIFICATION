@@ -64,7 +64,7 @@ cervical-cancer-nas-resnet/
 
 ```bash
 # Clone the repository
-git clone https://github.com/<villwin007>/cervical-cancer-nas-resnet.git
+git clone https://github.com/villwin007/cervical-cancer-nas-resnet.git
 cd cervical-cancer-nas-resnet
 
 # Create and activate a virtual environment (optional)
@@ -193,6 +193,7 @@ For questions, feel free to reach out:
 * **GitHub**: [villwin007](https://github.com/villwin007)
 
 ---
+
 
 
 
